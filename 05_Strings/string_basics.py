@@ -19,3 +19,14 @@ print("Lowercase:", name.lower())
 
 # 5. Check if string contains a word
 print("Contains 'Pawar'?", "Pawar" in name)
+
+
+
+#Length of name: 12
+#First character: T
+#Last character: r
+#First name: Tushar
+#Last name: Pawar
+#Uppercase: TUSHAR PAWAR
+#Lowercase: tushar pawar
+#Contains 'Pawar'? True
