@@ -21,7 +21,7 @@ print("Lowercase:", name.lower())
 print("Contains 'Pawar'?", "Pawar" in name)
 
 
-
+#output
 #Length of name: 12
 #First character: T
 #Last character: r
