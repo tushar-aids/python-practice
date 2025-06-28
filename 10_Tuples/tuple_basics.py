@@ -19,10 +19,10 @@ print("Not a tuple, it's:", type(not_tuple))
 
 
 
-output:
-Name: Tushar
-Age: 21
-Branch: AI & DS
-Length: 3
-Single-item tuple: ('Python',)
-Not a tuple, it's: <class 'str'>
+# output:
+# Name: Tushar
+# Age: 21
+# Branch: AI & DS
+# Length: 3
+# Single-item tuple: ('Python',)
+# Not a tuple, it's: <class 'str'>
