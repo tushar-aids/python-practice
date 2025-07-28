@@ -8,3 +8,11 @@ def print_items(items):
 # Calling the function with a list
 fruits = ["apple", "banana", "mango"]
 print_items(fruits)
+
+
+
+output:
+List items are:
+apple
+banana
+mango
