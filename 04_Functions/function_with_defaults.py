@@ -8,3 +8,9 @@ greet("Tushar")
 
 # Calling without any name
 greet()
+
+
+
+output:
+Hello, Tushar
+Hello, Guest
